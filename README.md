@@ -3,7 +3,7 @@
 ---
 
 ## **The Final Dashboard**
-![Final Dashboard](Output_Screenshots/Final%20Dashboard.png)
+![Final Dashboard](Output_Screenshots/Final_Dashboard.png)
 
 ---
 
